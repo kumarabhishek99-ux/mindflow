@@ -1,4 +1,4 @@
-# Mindflow
+# Mindflow Experiemnt-01
 
 **Chat with AI and watch your ideas build into a mind map in real time.**
 
